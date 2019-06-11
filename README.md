@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the KeyVaultManagementClient API (version 2018-02-14-preview).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/keyvault-secrets/2018-02-14-preview/swagger.json<br/>
-Generated at: 2019-05-07T17:38:15+03:00
+Generated at: 2019-06-11T18:13:59+03:00
 
 ## API Description
 
